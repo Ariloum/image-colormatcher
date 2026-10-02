@@ -1,0 +1,17 @@
+{
+ "name": "Фотолаборатория",
+ "dark": true,
+ "bg": "#120a0a",
+ "panel": "#170d0d",
+ "surface": "#0d0707",
+ "raised": "#231313",
+ "border": "#351b1b",
+ "text": "#e8b4b4",
+ "text_dim": "#9c6b6b",
+ "accent": "#e05050",
+ "accent_text": "#1a0505",
+ "hover": "#2a1717",
+ "selection": "#4a1d1d",
+ "danger": "#ff7070",
+ "viewer": "#100808"
+}

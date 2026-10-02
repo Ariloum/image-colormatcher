@@ -1,0 +1,17 @@
+{
+ "name": "Полночный изумруд",
+ "dark": true,
+ "bg": "#0f1614",
+ "panel": "#131c1a",
+ "surface": "#0b1110",
+ "raised": "#1d2a27",
+ "border": "#26362f",
+ "text": "#d9ebe4",
+ "text_dim": "#7f9a90",
+ "accent": "#2ecc8f",
+ "accent_text": "#04140d",
+ "hover": "#1f2e2a",
+ "selection": "#1d4a3a",
+ "danger": "#e26d6d",
+ "viewer": "#0f1513"
+}

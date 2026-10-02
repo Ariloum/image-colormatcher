@@ -1,0 +1,17 @@
+{
+ "name": "Лунный свет",
+ "dark": true,
+ "bg": "#14161d",
+ "panel": "#1a1d26",
+ "surface": "#10121a",
+ "raised": "#252a37",
+ "border": "#2f3545",
+ "text": "#dfe3ee",
+ "text_dim": "#8a93a8",
+ "accent": "#5fd4b4",
+ "accent_text": "#0b1a16",
+ "hover": "#2b3142",
+ "selection": "#2c4a52",
+ "danger": "#e0697a",
+ "viewer": "#16181f"
+}

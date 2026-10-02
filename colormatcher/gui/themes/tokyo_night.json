@@ -1,0 +1,17 @@
+{
+ "name": "Tokyo Night",
+ "dark": true,
+ "bg": "#16161e",
+ "panel": "#1a1b26",
+ "surface": "#13131a",
+ "raised": "#24283b",
+ "border": "#2f3549",
+ "text": "#c0caf5",
+ "text_dim": "#7a83ad",
+ "accent": "#7aa2f7",
+ "accent_text": "#0d1530",
+ "hover": "#292e42",
+ "selection": "#2e3c64",
+ "danger": "#f7768e",
+ "viewer": "#16161e"
+}

@@ -1,0 +1,93 @@
+﻿priority;file;group;params;note
+1;cb__shadows.cr-100__pl-on.png;cb;"shadows.cr=-100; pl=on";
+2;cb__shadows.cr-50__pl-on.png;cb;"shadows.cr=-50; pl=on";
+2;cb__shadows.cr+50__pl-on.png;cb;"shadows.cr=50; pl=on";
+1;cb__shadows.cr+100__pl-on.png;cb;"shadows.cr=100; pl=on";
+1;cb__shadows.mg-100__pl-on.png;cb;"shadows.mg=-100; pl=on";
+2;cb__shadows.mg-50__pl-on.png;cb;"shadows.mg=-50; pl=on";
+2;cb__shadows.mg+50__pl-on.png;cb;"shadows.mg=50; pl=on";
+1;cb__shadows.mg+100__pl-on.png;cb;"shadows.mg=100; pl=on";
+1;cb__shadows.yb-100__pl-on.png;cb;"shadows.yb=-100; pl=on";
+2;cb__shadows.yb-50__pl-on.png;cb;"shadows.yb=-50; pl=on";
+2;cb__shadows.yb+50__pl-on.png;cb;"shadows.yb=50; pl=on";
+1;cb__shadows.yb+100__pl-on.png;cb;"shadows.yb=100; pl=on";
+1;cb__midtones.cr-100__pl-on.png;cb;"midtones.cr=-100; pl=on";
+2;cb__midtones.cr-50__pl-on.png;cb;"midtones.cr=-50; pl=on";
+2;cb__midtones.cr+50__pl-on.png;cb;"midtones.cr=50; pl=on";
+1;cb__midtones.cr+100__pl-on.png;cb;"midtones.cr=100; pl=on";
+1;cb__midtones.mg-100__pl-on.png;cb;"midtones.mg=-100; pl=on";
+2;cb__midtones.mg-50__pl-on.png;cb;"midtones.mg=-50; pl=on";
+2;cb__midtones.mg+50__pl-on.png;cb;"midtones.mg=50; pl=on";
+1;cb__midtones.mg+100__pl-on.png;cb;"midtones.mg=100; pl=on";
+1;cb__midtones.yb-100__pl-on.png;cb;"midtones.yb=-100; pl=on";
+2;cb__midtones.yb-50__pl-on.png;cb;"midtones.yb=-50; pl=on";
+2;cb__midtones.yb+50__pl-on.png;cb;"midtones.yb=50; pl=on";
+1;cb__midtones.yb+100__pl-on.png;cb;"midtones.yb=100; pl=on";
+1;cb__highlights.cr-100__pl-on.png;cb;"highlights.cr=-100; pl=on";
+2;cb__highlights.cr-50__pl-on.png;cb;"highlights.cr=-50; pl=on";
+2;cb__highlights.cr+50__pl-on.png;cb;"highlights.cr=50; pl=on";
+1;cb__highlights.cr+100__pl-on.png;cb;"highlights.cr=100; pl=on";
+1;cb__highlights.mg-100__pl-on.png;cb;"highlights.mg=-100; pl=on";
+2;cb__highlights.mg-50__pl-on.png;cb;"highlights.mg=-50; pl=on";
+2;cb__highlights.mg+50__pl-on.png;cb;"highlights.mg=50; pl=on";
+1;cb__highlights.mg+100__pl-on.png;cb;"highlights.mg=100; pl=on";
+1;cb__highlights.yb-100__pl-on.png;cb;"highlights.yb=-100; pl=on";
+2;cb__highlights.yb-50__pl-on.png;cb;"highlights.yb=-50; pl=on";
+2;cb__highlights.yb+50__pl-on.png;cb;"highlights.yb=50; pl=on";
+1;cb__highlights.yb+100__pl-on.png;cb;"highlights.yb=100; pl=on";
+1;cb__shadows.cr-100__pl-off.png;cb;"shadows.cr=-100; pl=off";
+1;cb__shadows.cr+100__pl-off.png;cb;"shadows.cr=100; pl=off";
+2;cb__shadows.yb+100__pl-off.png;cb;"shadows.yb=100; pl=off";
+1;cb__midtones.cr-100__pl-off.png;cb;"midtones.cr=-100; pl=off";
+1;cb__midtones.cr+100__pl-off.png;cb;"midtones.cr=100; pl=off";
+2;cb__midtones.yb+100__pl-off.png;cb;"midtones.yb=100; pl=off";
+1;cb__highlights.cr-100__pl-off.png;cb;"highlights.cr=-100; pl=off";
+1;cb__highlights.cr+100__pl-off.png;cb;"highlights.cr=100; pl=off";
+2;cb__highlights.yb+100__pl-off.png;cb;"highlights.yb=100; pl=off";
+1;cb__shadows.cr+60__midtones.mg+30__highlights.yb-40__pl-on.png;cb;"shadows.cr=60; midtones.mg=30; highlights.yb=-40; pl=on";сочетание
+2;cb__shadows.yb-50__midtones.cr-30__highlights.mg+45__pl-off.png;cb;"shadows.yb=-50; midtones.cr=-30; highlights.mg=45; pl=off";сочетание
+1;bc__b-150__c0.png;bc;"b=-150; c=0";
+2;bc__b-100__c0.png;bc;"b=-100; c=0";
+1;bc__b-50__c0.png;bc;"b=-50; c=0";
+2;bc__b-25__c0.png;bc;"b=-25; c=0";
+2;bc__b+25__c0.png;bc;"b=25; c=0";
+1;bc__b+50__c0.png;bc;"b=50; c=0";
+2;bc__b+100__c0.png;bc;"b=100; c=0";
+1;bc__b+150__c0.png;bc;"b=150; c=0";
+1;bc__b0__c-50.png;bc;"b=0; c=-50";
+2;bc__b0__c-25.png;bc;"b=0; c=-25";
+2;bc__b0__c+25.png;bc;"b=0; c=25";
+1;bc__b0__c+50.png;bc;"b=0; c=50";
+2;bc__b0__c+75.png;bc;"b=0; c=75";
+1;bc__b0__c+100.png;bc;"b=0; c=100";
+1;bc__b+50__c+50.png;bc;"b=50; c=50";сочетание
+2;bc__b-50__c+50.png;bc;"b=-50; c=50";сочетание
+2;bc__b+100__c-30.png;bc;"b=100; c=-30";сочетание
+2;bcl__b+100__c0.png;bcl;"b=100; c=0";Use Legacy ВКЛ
+2;bcl__b-100__c0.png;bcl;"b=-100; c=0";Use Legacy ВКЛ
+2;bcl__b0__c+50.png;bcl;"b=0; c=50";Use Legacy ВКЛ
+2;bcl__b0__c-50.png;bcl;"b=0; c=-50";Use Legacy ВКЛ
+2;hs__h-90__s0__l0.png;hs;"h=-90; s=0; l=0";
+2;hs__h-30__s0__l0.png;hs;"h=-30; s=0; l=0";
+2;hs__h+30__s0__l0.png;hs;"h=30; s=0; l=0";
+1;hs__h+90__s0__l0.png;hs;"h=90; s=0; l=0";
+2;hs__h+180__s0__l0.png;hs;"h=180; s=0; l=0";
+1;hs__h0__s-100__l0.png;hs;"h=0; s=-100; l=0";
+2;hs__h0__s-75__l0.png;hs;"h=0; s=-75; l=0";
+1;hs__h0__s-50__l0.png;hs;"h=0; s=-50; l=0";
+2;hs__h0__s-25__l0.png;hs;"h=0; s=-25; l=0";
+2;hs__h0__s+25__l0.png;hs;"h=0; s=25; l=0";
+1;hs__h0__s+50__l0.png;hs;"h=0; s=50; l=0";
+2;hs__h0__s+75__l0.png;hs;"h=0; s=75; l=0";
+1;hs__h0__s+100__l0.png;hs;"h=0; s=100; l=0";
+2;hs__h0__s0__l-100.png;hs;"h=0; s=0; l=-100";
+2;hs__h0__s0__l-75.png;hs;"h=0; s=0; l=-75";
+1;hs__h0__s0__l-50.png;hs;"h=0; s=0; l=-50";
+2;hs__h0__s0__l-25.png;hs;"h=0; s=0; l=-25";
+2;hs__h0__s0__l+25.png;hs;"h=0; s=0; l=25";
+1;hs__h0__s0__l+50.png;hs;"h=0; s=0; l=50";
+2;hs__h0__s0__l+75.png;hs;"h=0; s=0; l=75";
+2;hs__h0__s0__l+100.png;hs;"h=0; s=0; l=100";
+2;hs__h+30__s+40__l0.png;hs;"h=30; s=40; l=0";сочетание
+2;hs__h0__s+50__l-30.png;hs;"h=0; s=50; l=-30";сочетание
+1;op__cb-combo__50.png;op;"shadows.cr=60; midtones.mg=30; highlights.yb=-40; pl=on; opacity=50";как первое сочетание CB, но непрозрачность слоя 50%

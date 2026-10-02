@@ -1,0 +1,10 @@
+python-embed/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/_out/
+workspaces/
+*.autosave.cmws
+*.autosave.masks/
+ColorMatcher.exe

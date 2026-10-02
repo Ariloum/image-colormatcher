@@ -1,0 +1,17 @@
+{
+ "name": "Gruvbox Dark",
+ "dark": true,
+ "bg": "#1d2021",
+ "panel": "#282828",
+ "surface": "#191b1c",
+ "raised": "#32302f",
+ "border": "#45403d",
+ "text": "#ebdbb2",
+ "text_dim": "#a89984",
+ "accent": "#fabd2f",
+ "accent_text": "#2a1f00",
+ "hover": "#3c3836",
+ "selection": "#5a4a1a",
+ "danger": "#fb4934",
+ "viewer": "#1d2021"
+}

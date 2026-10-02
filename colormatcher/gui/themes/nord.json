@@ -1,0 +1,17 @@
+{
+ "name": "Nord",
+ "dark": true,
+ "bg": "#2e3440",
+ "panel": "#323846",
+ "surface": "#2a2f3a",
+ "raised": "#3b4252",
+ "border": "#434c5e",
+ "text": "#eceff4",
+ "text_dim": "#a3adbf",
+ "accent": "#88c0d0",
+ "accent_text": "#1c2a30",
+ "hover": "#434c5e",
+ "selection": "#4c566a",
+ "danger": "#bf616a",
+ "viewer": "#2e3440"
+}

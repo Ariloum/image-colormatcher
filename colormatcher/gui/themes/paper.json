@@ -1,0 +1,17 @@
+{
+ "name": "Бумага",
+ "dark": false,
+ "bg": "#f4f2ee",
+ "panel": "#faf8f5",
+ "surface": "#ffffff",
+ "raised": "#e9e6e0",
+ "border": "#d6d2ca",
+ "text": "#2b2a27",
+ "text_dim": "#76726a",
+ "accent": "#2f7d6d",
+ "accent_text": "#ffffff",
+ "hover": "#e6e2da",
+ "selection": "#cfe6df",
+ "danger": "#c0392b",
+ "viewer": "#e8e6e2"
+}

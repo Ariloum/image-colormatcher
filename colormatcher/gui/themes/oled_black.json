@@ -1,0 +1,17 @@
+{
+ "name": "OLED чёрная",
+ "dark": true,
+ "bg": "#000000",
+ "panel": "#050505",
+ "surface": "#000000",
+ "raised": "#141414",
+ "border": "#222222",
+ "text": "#e6e6e6",
+ "text_dim": "#8c8c8c",
+ "accent": "#4da3ff",
+ "accent_text": "#00111f",
+ "hover": "#1a1a1a",
+ "selection": "#16324d",
+ "danger": "#ff5f5f",
+ "viewer": "#000000"
+}

@@ -1,0 +1,17 @@
+{
+ "name": "Графит",
+ "dark": true,
+ "bg": "#1e1f22",
+ "panel": "#232428",
+ "surface": "#1a1b1e",
+ "raised": "#2e3035",
+ "border": "#3a3c42",
+ "text": "#e3e4e8",
+ "text_dim": "#9a9ca4",
+ "accent": "#8fa8c8",
+ "accent_text": "#0e1520",
+ "hover": "#34363c",
+ "selection": "#3d4b5e",
+ "danger": "#e57373",
+ "viewer": "#202124"
+}

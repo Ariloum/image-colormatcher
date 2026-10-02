@@ -1,0 +1,17 @@
+{
+ "name": "One Dark",
+ "dark": true,
+ "bg": "#21252b",
+ "panel": "#282c34",
+ "surface": "#1d2026",
+ "raised": "#2f343d",
+ "border": "#3a3f4b",
+ "text": "#dcdfe4",
+ "text_dim": "#8b93a1",
+ "accent": "#61afef",
+ "accent_text": "#0b1a2a",
+ "hover": "#353b45",
+ "selection": "#2f4a66",
+ "danger": "#e06c75",
+ "viewer": "#21252b"
+}

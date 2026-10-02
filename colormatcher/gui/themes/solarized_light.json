@@ -1,0 +1,17 @@
+{
+ "name": "Solarized Light",
+ "dark": false,
+ "bg": "#eee8d5",
+ "panel": "#fdf6e3",
+ "surface": "#fffbef",
+ "raised": "#e6dfc8",
+ "border": "#d3cbb2",
+ "text": "#073642",
+ "text_dim": "#657b83",
+ "accent": "#268bd2",
+ "accent_text": "#ffffff",
+ "hover": "#e4ddc6",
+ "selection": "#c9dcea",
+ "danger": "#dc322f",
+ "viewer": "#eee8d5"
+}

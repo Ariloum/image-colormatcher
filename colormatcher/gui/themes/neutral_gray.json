@@ -1,0 +1,17 @@
+{
+ "name": "Нейтральный серый 18%",
+ "dark": true,
+ "bg": "#3a3a3a",
+ "panel": "#404040",
+ "surface": "#333333",
+ "raised": "#4a4a4a",
+ "border": "#565656",
+ "text": "#ececec",
+ "text_dim": "#b0b0b0",
+ "accent": "#9ecbff",
+ "accent_text": "#0b1a2a",
+ "hover": "#505050",
+ "selection": "#5a6878",
+ "danger": "#ff8080",
+ "viewer": "#767676"
+}

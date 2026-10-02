@@ -1,0 +1,17 @@
+{
+ "name": "Monokai",
+ "dark": true,
+ "bg": "#1e1f1c",
+ "panel": "#272822",
+ "surface": "#1a1b18",
+ "raised": "#34352f",
+ "border": "#44463d",
+ "text": "#f8f8f2",
+ "text_dim": "#a59f85",
+ "accent": "#a6e22e",
+ "accent_text": "#152000",
+ "hover": "#3a3b33",
+ "selection": "#48512a",
+ "danger": "#f92672",
+ "viewer": "#1e1f1c"
+}

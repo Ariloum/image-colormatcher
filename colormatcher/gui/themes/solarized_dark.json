@@ -1,0 +1,17 @@
+{
+ "name": "Solarized Dark",
+ "dark": true,
+ "bg": "#00212b",
+ "panel": "#002b36",
+ "surface": "#001e27",
+ "raised": "#073642",
+ "border": "#0d4452",
+ "text": "#d6dbdb",
+ "text_dim": "#839496",
+ "accent": "#2aa198",
+ "accent_text": "#00201e",
+ "hover": "#0a3f4c",
+ "selection": "#0f5563",
+ "danger": "#dc322f",
+ "viewer": "#00252f"
+}
